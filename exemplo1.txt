@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+ssds	
+=======
+ssds
+>>>>>>> alteracao exemplo1.txt
+sd
+
+s
+s
+sasdasd
+abacate
+suave na nave
